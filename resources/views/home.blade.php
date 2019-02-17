@@ -8,8 +8,8 @@
                     <br>
                   	<p>Presentations of research on all aspects of Coaching are invited for the eleventh annual
                       "Coaching in Leadership and Healthcare: Theory, Practice and Results" Conference. The
-                      conference is organized by the <a href="http://www.instituteofcoaching.org" target="_blank">Institute of Coaching</a>,
-                      McLean Hospital, and Harvard Medical School on September 28-29, 2018 at <a href="https://aws.passkey.com/go/McLeanHospitalCoaching" target="_blank">
+                      conference is organized by the <a href="https://www.instituteofcoaching.org" target="_blank">Institute of Coaching</a>,
+                      McLean Hospital, and Harvard Medical School on October 18-19, 2019 at <a href="https://aws.passkey.com/go/McLeanHospitalCoaching" target="_blank">
                       The Renaissance Boston Waterfront Hotel</a>, Boston, MA.</p>
 
                   	<p class="bold" class="line">Types of Submissions</p>
