@@ -76,7 +76,7 @@
 	      <div id="research_count"><strong>500 word limit for Research Description. Total words so far: </strong></div>
 				<br>
 				<br>
-	      <p><strong>Research Abstract: </strong>Summarize the Background and Objectives; Design and Methods; Findings and Discussion into a short abstract that will be published in the conference syllabus. <strong>250 word limit for this section.</strong></p>
+	      <p><strong>Research Abstract: </strong>Summarize the Background and Objectives; Design and Methods; Findings and Discussion into a short abstract that will be published in the conference syllabus. <strong>200 word limit for this section.</strong></p>
 	      <textarea id="abstract" name="abstract" value='{{ old('abstract', '') }}' form="research_form"  min="2" max="200" rows="6" cols="120"></textarea>
 	      <div id="abstract_count"><strong>200 word limit for Abstract. Total words so far: </strong></div>
 				</form>

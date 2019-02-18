@@ -15,7 +15,7 @@
 <li><span class="bold">Co-Author(s)</span>: include up to five co-author names and organizations.</li>
 <li><span class="bold">Title:</span> maximum of 40 words.</li>
 <li><span class="bold">Research:</span> maximum of 500 words to include <strong>background, objectives, design, methods, findings and discussions.</strong></li>
-<li><span class="bold">Brief Abstract:</span> maximum of 200 words. Summary of research for publication in the conference program.</li>
+<li><span class="bold">Brief Abstract:</span> maximum of 200 words. This is a summary of the research which will be published as is in the conference program.</li>
 </ul>
 
 <p class="bold">Additional information:</p>
@@ -41,15 +41,15 @@
   will not be accepted. Submissions which only present and/or promote a coaching program/model
   or approach without including empirical data or theoretical analysis will also not be accepted.</li>
 <li>Presenting authors of all accepted papers and posters must register and pay the conference registration
-  fee. Authors of accepted papers and posters must register by August 17, 2018 to be included in the
+  fee. Authors of accepted papers and posters must register by September 15, 2019 to be included in the
   conference program.</li>
 <li>Posters will not be considered for poster awards or be displayed without at least one author registered
   to attend the conference and in attendance at the conference.</li>
 </ul>
 
 <p class="bold">Deadline Information</p>
-<p>The deadline for paper and poster online submissions is <span class="bold">May 1st, 2018 by 11:59 PM EDT.</span><br>
-Decisions will be announced by <span class="bold">June 15th, 2018.</span></p>
+<p>The deadline for paper and poster online submissions is <span class="bold">May 1st, 2019 by 11:59 PM EDT.</span><br>
+Decisions will be announced by <span class="bold">June 15th, 2019.</span></p>
 <br>
 
 <h3><strong>Poster Competition</strong></h3>
@@ -58,14 +58,14 @@ Decisions will be announced by <span class="bold">June 15th, 2018.</span></p>
 Advisory Council of the Institute of Coaching will select the winners of the Best Poster Competition
 Award and Honorary Mention winners.</p>
 
-<p>Accepted poster presenters must submit the final PDF poster by <span class="bold">August 1, 2018
+<p>Accepted poster presenters must submit the final PDF poster by <span class="bold">August 1st, 2019
    11:59 PM EDT </span>to be entered into the competition. An upload link accessible through your account
    will be made available closer to the deadline.</p>
 
 <p>The Primary Author of the Best Poster award will receive:</p>
 <ol>
     <li>One-year complementary Affiliate Membership in the Institute of Coaching.</li>
-    <li>Up to $1000 travel and accommodation reimbursement for the current conference. (Travel must meet
+    <li>Registration fee reimbursement for the current conference. (Travel must meet
       the Partners guidelines for reimbursement.)</li>
     <li>Complementary registration to next year&#39;s Coaching Conference.</li>
     <li>A commemorative award.</li>
@@ -86,8 +86,8 @@ Award and Honorary Mention winners.</p>
 <p class="bold">Additional information for presenting the posters:</p>
 <ul>
 <li>Posters can be <strong>no larger than 72 inches wide by 48 inches tall.</strong></li>
-<li>Bring your final poster to the conference venue "Help" desk (located on 3rd floor of hotel) by 8:00am on Friday, September 28th, 2018 to hang your poster.</li>
-<li>On Friday, September 28th, 2018, from 5:15-6:45pm, there will be a general poster session and networking reception.</li>
+<li>Bring your final poster to the conference venue "Help" desk (located on 3rd floor of hotel) by 8:00am on Friday, October 18th, 2019 to hang your poster.</li>
+<li>On Friday, October 18th, 2019, from 5:15-6:45pm, there will be a general poster session and networking reception.</li>
 </ul>
 
 </div>

@@ -37,9 +37,11 @@
 
                     <p><span class="bold" class="line">Deadline</span></br>
                     The deadline for online paper and poster submissions is
-                      <span class="bold" class="red"> May 1, 2018 by 11:59 PM EDT.</span></p>
+                      <span class="bold" class="red"> May 1, 2019 by 11:59 PM EDT.</span></p>
 
-                    <p><span class="bold">Submission and registration will open on February 15th, 2018</span></p>
+                       <p><span class="bold" class="red"> Decisions will be announced by June 15th, 2019</span></p>
+
+                    <p><span class="bold">Submission and registration will open on February 18th, 2019</span></p>
                 </div>
 
 @endsection
