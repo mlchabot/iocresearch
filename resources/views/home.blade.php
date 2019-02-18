@@ -41,7 +41,7 @@
 
                        <p><span class="bold" class="red"> Decisions will be announced by June 15th, 2019</span></p>
 
-                    <p><span class="bold">Submission and registration will open on February 18th, 2019</span></p>
+                    <p><span class="bold">Submission and registration will open on February 20th, 2019</span></p>
                 </div>
 
 @endsection
