@@ -65,8 +65,7 @@ Award and Honorary Mention winners.</p>
 <p>The Primary Author of the Best Poster award will receive:</p>
 <ol>
     <li>One-year complementary Affiliate Membership in the Institute of Coaching.</li>
-    <li>Registration fee reimbursement for the current conference. (Travel must meet
-      the Partners guidelines for reimbursement.)</li>
+    <li>Registration fee reimbursement for the current conference. </li>
     <li>Complementary registration to next year&#39;s Coaching Conference.</li>
     <li>A commemorative award.</li>
 </ol>
