@@ -6,9 +6,9 @@
 @section('content')
 <div class="content">
 
-	<h3 class="bold">Coaching in Leadership and Healthcare 2018 Submissions</h3>
+	<h3 class="bold">Coaching in Leadership and Healthcare 2019 Submissions</h3>
 
-	<p>Thank you for your research submission(s) for consideration in the Coaching in Leadership and Healthcare 2019 conference, scheduled October 18-19, 2019.
+	<p>Thank you for your research submission(s) for consideration in the Coaching in Leadership and Healthcare 201 conference, scheduled October 18-19, 2019.
 	Your submission is listed below. To make changes to your submission, select the radio button next to your entry and click the "Edit" button below.</p>
 
 		@if(count($errors)  > 0)
