@@ -8,7 +8,7 @@
 
 	<h3 class="bold">Coaching in Leadership and Healthcare 2018 Submissions</h3>
 
-	<p>Thank you for your research submission(s) for consideration in the Coaching in Leadership and Healthcare 2018 conference, scheduled September 28-29, 2018.
+	<p>Thank you for your research submission(s) for consideration in the Coaching in Leadership and Healthcare 2019 conference, scheduled October 18-19, 2019.
 	Your submission is listed below. To make changes to your submission, select the radio button next to your entry and click the "Edit" button below.</p>
 
 		@if(count($errors)  > 0)
@@ -40,7 +40,7 @@
 												<legend><span class="bold">Research</span></legend>
 													<span class="bold">Your submission is for a research:</span> {{ $researches[$i]->type }} <br>
 													<br>
-													<span class="bold">Track:</span>
+													<!--<span class="bold">Track:</span>
 													<?php $track = $researches[$i]->track; ?>
 																@if ( $track == "Both" )
 																  <strong>Both Sessions:</strong> Leadership on October 13 or Healthcare on October 14, 2017
@@ -49,20 +49,20 @@
 																  @else ( $track == "Health" )
 																	  <strong>Health:</strong> Healthcare and Wellbeing Coaching--October 14, 2017
 																@endif
-																<br><br>
+																<br><br>-->
 													<span class="bold">Title:</span> {{ $researches[$i]->title }} <br><br>
 													<span class="bold">Research Findings:</span> {{ $researches[$i]->research }} <br><br>
 											  	<span class="bold">Abstract:</span> {{ $researches[$i]->abstract }} <br><br>
 									<br>
 															<legend><span class="bold">Authors</span></legend>
 																		<span class="bold">Main Author:</span> {{ $user->first }} {{ $user->last }}<br>
-																		<span class="bold">Organization:</span> {{ $user->organization }}<br>
+																		<!--<span class="bold">Organization:</span> {{ $user->organization }}<br>-->
 																		<br>
 																		<?php $auth_count = $researches[$i]->auth_count; ?>
 																		@for ( $n = 0; $n <= $auth_count; $n++ )
 																		<?php $first = "first" . $n; $last = "last" . $n; $org = "org" . $n; ?>
 																		<span class="bold">Co-Author:</span> {{ $researches[$i]->$first }} {{ $researches[$i]->$last }}<br>
-																		<span class="bold">Organization:</span> {{ $researches[$i]->$org}}<br>
+																		<!--<span class="bold">Organization:</span>{{ $researches[$i]->$org}}<br>-->
 																		<br>
 																		@endfor
 
